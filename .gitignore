@@ -1,0 +1,4 @@
+# This are folders and files not send
+*next/
+*node_modules/
+*package-lock.json
